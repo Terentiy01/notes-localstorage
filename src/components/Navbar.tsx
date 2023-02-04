@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar: React.FC = () => {
   return (
     <nav>
-      <div className="nav-wrapper pink lighten-4 px1">
+      <div className="nav-wrapper light-green px1">
         <a href="/" className="brand-logo">
           Todo-list
         </a>
