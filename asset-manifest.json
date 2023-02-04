@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes-localstorage/static/css/main.cddb5b8c.css",
+    "main.js": "/notes-localstorage/static/js/main.f43b9640.js",
+    "index.html": "/notes-localstorage/index.html",
+    "main.cddb5b8c.css.map": "/notes-localstorage/static/css/main.cddb5b8c.css.map",
+    "main.f43b9640.js.map": "/notes-localstorage/static/js/main.f43b9640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cddb5b8c.css",
+    "static/js/main.f43b9640.js"
+  ]
+}
