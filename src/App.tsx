@@ -1,7 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import Navbar from './components/Navbar'
 
 const App: React.FC = () => {
-  return <div>App</div>
+  return (
+    <>
+      <Navbar />
+      <div className="container"></div>
+    </>
+  )
 }
 
 export default App
